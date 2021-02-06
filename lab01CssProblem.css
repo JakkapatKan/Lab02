@@ -42,7 +42,7 @@ li+h2{
 
 /*Give <em> inside <p> red and bold*/
 p em{
-    font: bold red:
+    font: bold red;
 }
 
 div h3{
