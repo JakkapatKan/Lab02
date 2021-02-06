@@ -1,6 +1,7 @@
 /*Give the <body> element a background of Black*/
 body{
     background: black;
+    font-family: 'Itim', cursive;
 }
 /*Make the <h1> elements blue*/
 h1{
@@ -42,4 +43,12 @@ li+h2{
 /*Give <em> inside <p> red and bold*/
 p em{
     font: bold red:
+}
+
+div h3{
+    color: white;
+}
+
+#zen-intro h2 {
+    color: yellow;
 }
